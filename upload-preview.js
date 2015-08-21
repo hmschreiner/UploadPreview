@@ -34,9 +34,9 @@
     UploadPreview.messages = {
         type: "Invalid file type: '{0}'.",
         maxSize: "Selected image '{0}' is too big. Image size must be less than {1}KB.",
-        minWidth: "Selected image '{0}' width must be more than {1}px.",
+        minWidth: "Selected image '{0}' width must be greater than {1}px.",
         maxWidth: "Selected image '{0}' width must be less than {1}px.",
-        minHeigth: "Selected image '{0}' heigth must be more than {1}px.",
+        minHeigth: "Selected image '{0}' heigth must be greater than {1}px.",
         maxHeigth: "Selected image '{0}' heigth must be less than {1}px."
     };
 
